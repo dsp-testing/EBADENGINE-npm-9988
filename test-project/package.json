@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fake-engine-package": "file:../fake-engine-package"
+    "fake-engine-package": "file:../fake-engine-package",
+    "lodash": "^4.17.21"
   }
 }
