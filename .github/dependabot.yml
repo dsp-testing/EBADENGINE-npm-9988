@@ -5,4 +5,10 @@ updates:
     versioning-strategy: "increase"
     schedule:
       interval: "daily"
+  - package-ecosystem: "npm"
+    directory: "/fake-engine-package/"
+    versioning-strategy: "increase"
+    schedule:
+      interval: "daily"
+  
   
