@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "fake-engine-package": "file:../fake-engine-package",
-    "lodash": "^4.17.21"
+      "eslint": "^8.52.0"
   }
 }
